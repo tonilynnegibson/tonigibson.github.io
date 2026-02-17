@@ -10,7 +10,7 @@ Seeking Data Analytics Internship
 
 ### Seoul Bike Demand Prediction
 Predict bike rental demand using weather and time features.  
-**Tools:** Python, pandas, (PyTorch / scikit-learn)  
+**Tools:** Python, Numpy, pandas, (PyTorch / scikit-learn)  
 **Link:** (paste your project repo link here)
 
 ### SQL Project (coming soon)
