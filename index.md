@@ -2,7 +2,7 @@
 MS Data Analytics student | Python • SQL • Excel  
 Seeking Data Analytics Internship
 
-**Links:** [LinkedIn](www.linkedin.com/in/tonilynnegibson) • [Resume](later) • [GitHub](https://github.com/tonilynnegibson)
+**Links:** [LinkedIn](https://www.linkedin.com/in/tonilynnegibson/) • [Resume](later) • [GitHub](https://github.com/tonilynnegibson)
 
 ---
 
@@ -24,4 +24,4 @@ Dashboard + insights from real-world data.
 ---
 
 ## Contact
-Email: your email here
+Email: Tonibusiness2829@gmail.com
