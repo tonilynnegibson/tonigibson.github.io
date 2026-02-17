@@ -2,7 +2,7 @@
 MS Data Analytics student | Python • SQL • Excel  
 Seeking Data Analytics Internship
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/tonilynnegibson/) • [Resume](later) • [GitHub](https://github.com/tonilynnegibson)
+**Links:** [LinkedIn](https://www.linkedin.com/in/tonilynnegibson/) • [Resume](https://drive.google.com/file/d/1gron9THiUfrGCikUeuWABEgYREwUbrHK/view?usp=sharing) • [GitHub](https://github.com/tonilynnegibson)
 
 ---
 
